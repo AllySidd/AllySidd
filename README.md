@@ -9,7 +9,7 @@
 
 -🚀 I’m interested in Programming.
 
- 📗 I'm currently Learning from Panaverse, PIAIC.
+-📗 I'm currently Learning from Panaverse, PIAIC.
 
 - 💬 Ask me about **HTML,CSS,JS AND PHP.**
 
