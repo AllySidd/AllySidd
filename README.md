@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhammad Ali Siddiqui </h1>
+<h1 align="center">Hi 👋, I'm Ali Siddiqui </h1>
 <h3 align="center">A passionate Web Developer from Pakistan</h3>
 
 
