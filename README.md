@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhammad Ali Siddiqui (MIR CODER)</h1>
+<h1 align="center">Hi 👋, I'm Muhammad Ali Siddiqui </h1>
 <h3 align="center">A passionate Web Developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mirkashi&label=Profile%20views&color=0e75b6&style=flat" alt="MAS" /> </p>
@@ -12,13 +12,6 @@
 - 💬 Ask me about **HTML,CSS,JS AND PHP.**
 
 - 📫 How to reach me **ajvemon@gmail.com**
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/ali-siddiqui-5161a92b7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ali-siddiqui-5161a92b7/" height="30" width="40" /></a>
-<a href="https://www.facebook.com/Ajuuuuuuuuu/web.facebook.com/boost.your.biz.fr" target="blank"><img align="center" src="https://raw.githubusercontent.com/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/Ajuuuuuuuuu" height="30" width="40" /></a>
-<a href="https://instagram.com/https://https://www.instagram.com/itx_siddiquiii/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/itx_siddiquiii/" height="30" width="40" /></a>
 
 </p>
 
